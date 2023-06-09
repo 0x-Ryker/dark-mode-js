@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  button {
+    padding: 15px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(7, 7, 7);
+    color: aliceblue;
+  }
+
+  h1 {
+    text-align: center;
+  }
